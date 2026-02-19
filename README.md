@@ -18,5 +18,5 @@ Dashboard exploring relationship between waiting time and shipment delays.
 
 ## Tools Used
 - Tableau Public
-- Excel
+- Python
 - Data visualization techniques
